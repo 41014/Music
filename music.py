@@ -34,3 +34,5 @@ class Music:
         self.minorseventh = [self.chromatic[_] for _ in self.minorSeventh]
         self.dominantseventh = [self.chromatic[_] for _ in self.dominantSeventh]
 
+
+
